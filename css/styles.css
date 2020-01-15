@@ -1,0 +1,12 @@
+div {
+    font-family: Arial, sans-serif;
+    font-size: 48pt;
+    margin-top: 5%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+}
+li {
+    list-style-type: none;
+}
